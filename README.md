@@ -9,3 +9,5 @@ To run this project locally,
 
 This project was part of a few projects i did to better understand and implement react and react hooks.
 It was also my introduction to tailwind.
+
+The project is currently live and accessible at https://random-password-generator-chi-jet.vercel.app/
